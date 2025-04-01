@@ -1,0 +1,13 @@
+train: /content/drive/MyDrive/TFM/YOLOv8/train/images
+val: /content/drive/MyDrive/TFM/YOLOv8/valid/images
+test: /content/drive/MyDrive/TFM/YOLOv8/test/images
+
+nc: 1
+names: ['fin']
+
+roboflow:
+  workspace: tfmorcas
+  project: orca_fin_detect
+  version: 2
+  license: Private
+  url: https://app.roboflow.com/tfmorcas/orca_fin_detect/2
