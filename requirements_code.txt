@@ -1,0 +1,7 @@
+Package                       Version
+----------------------------- ------------
+ultralytics                   8.3.97
+matplotlib		      3.10.0
+torch 			      2.6.0
+torchmetrics		      1.7.0
+torchvision                   0.21.0
