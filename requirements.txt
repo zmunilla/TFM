@@ -1,0 +1,6 @@
+shiny
+ultralytics
+numpy
+Pillow
+opencv-python-headless
+nest-asyncio
