@@ -2,6 +2,7 @@
 
 '''
 Este repositorio contiene el código necesario para implementar un algoritmo de detección de aletas de orcas a partir de imágenes de avistamientos
+
 Contenido: 
 
 o	Requirements_code.txt: Librerías necesarias para el código
