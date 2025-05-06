@@ -23,7 +23,7 @@ o	6_Creación_datasets_siamesas.ipynb: Código para dividir las imágenes de cad
 
 o	7_Siamese_Contrastive.ipynb: Código para el entrenamiento del modelo de redes siamesas. Incluye obtención de métricas y código para aplicación del modelo a nuevas imágenes.
 
-o	App_shiny_apyder1.py: Código para implementar la aplicación en Shiny
+o	App_shiny_apyder2.py: Código para implementar la aplicación en Shiny
 
 o	Requirements_app.txt:  para la aplicación en Shiny
 
