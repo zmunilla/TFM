@@ -19,9 +19,11 @@ o	4_Detección_lado.ipynb: Código entrenamiento modelo basado en aprendizaje po
 
 o	5_Aplicación_detección_lado.ipynb: Código para aplicar modelo entrenado de detección de lado en nuevas imágenes
 
-o	6_Creación_datasets_siamesas.ipynb: Código para dividir las imágenes de cada carpeta de individuo en train y test con un 80% de train y un 20% para test.
+o	6_Creación_datasets_siamesas.ipynb: Código para dividir las imágenes de cada carpeta de individuo en train (80%) y test (20%).
 
-o	7_Siamese_Contrastive.ipynb: Código para el entrenamiento del modelo de redes siamesas. Incluye obtención de métricas y código para aplicación del modelo a nuevas imágenes.
+o	7_Siamese_Contrastive.ipynb: Código para el entrenamiento del modelo de redes siamesas. 
+
+o	8_Triplet_Loss.ipynb: Código para el entrenamiento del modelo de redes basadas en tripletes.
 
 o	App_shiny_apyder2.py: Código para implementar la aplicación en Shiny
 
