@@ -19,6 +19,8 @@ o	4_Detección_lado.ipynb: Código entrenamiento modelo basado en aprendizaje po
 
 o	5_Aplicación_detección_lado.ipynb: Código para aplicar modelo entrenado de detección de lado en nuevas imágenes
 
+o	6_Creación_datasets_siamesas.ipynb: Código para dividir las imágenes de cada carpeta de individuo en train y test con un 80% de train y un 20% para test.
+
 o	App_shiny_apyder1.py: Código para implementar la aplicación en Shiny
 
 o	Requirements_app.txt:  para la aplicación en Shiny
