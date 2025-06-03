@@ -21,6 +21,8 @@ o	5_Siamese_Contrastive_PEC4.ipynb: Código para el entrenamiento del modelo de 
 
 o	6_Triplet_Loss_PEC4.ipynb: Código para el entrenamiento del modelo de redes basadas en tripletes.
 
+o	7_Catalogo_embeddings_rutas_drive_PEC4.ipynb: Código para modificar el catálogo de embeddings con la ruta de la imagen a Google Drive.
+
 o	App_redef.py: Código para implementar la aplicación en Shiny
 
 o	Requirements_app.txt:  para la aplicación en Shiny
