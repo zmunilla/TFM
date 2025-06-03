@@ -7,29 +7,32 @@
 
 o	Requirements_code.txt: Librerías necesarias para el código
 
-o	1_Entrenamiento_YOLO8.ipynb: Código entrenamiento modelo basado en YOLO
+o	1_Entrenamiento_YOLO8_PEC4.ipynb: Código entrenamiento modelo basado en YOLO
 
 o	data.yaml: Archivo para entrenamiento modelo con YOLO
 
-o	2_Anotación_recorte_YOLO.ipynb: Código aplicación modelo YOLO a imágenes
+o	2_Detección_recorte_YOLO_PEC4.ipynb: Código aplicación modelo YOLO a imágenes
 
-o	3_Crear_train_test_val_det_lado.ipynb: Código de creación dataset para uso en entrenamiento modelo ResNet
+o	3_Clasificación_lado_PEC4.ipynb: Código entrenamiento modelo basado en aprendizaje por transferencia – ResNet
 
-o	4_Detección_lado.ipynb: Código entrenamiento modelo basado en aprendizaje por transferencia – ResNet
+o	4_Aplicación_clasificación_lado_PEC4.ipynb: Código para aplicar modelo entrenado de detección de lado en nuevas imágenes
 
-o	5_Aplicación_detección_lado.ipynb: Código para aplicar modelo entrenado de detección de lado en nuevas imágenes
+o	5_Siamese_Contrastive_PEC4.ipynb: Código para el entrenamiento del modelo de redes siamesas. 
 
-o	6_Creación_datasets_siamesas.ipynb: Código para dividir las imágenes de cada carpeta de individuo en train (80%) y test (20%).
+o	6_Triplet_Loss_PEC4.ipynb: Código para el entrenamiento del modelo de redes basadas en tripletes.
 
-o	7_Siamese_Contrastive.ipynb: Código para el entrenamiento del modelo de redes siamesas. 
-
-o	8_Triplet_Loss.ipynb: Código para el entrenamiento del modelo de redes basadas en tripletes.
-
-o	App_shiny_apyder2.py: Código para implementar la aplicación en Shiny
+o	App_redef.py: Código para implementar la aplicación en Shiny
 
 o	Requirements_app.txt:  para la aplicación en Shiny
 
-o	best8.pt : Modelo entrenado basado en YOLO
+o	cat_emb_left_DRIVE.pkl : Catalogo de embeddings con links de imágenes a Google Drive (left)
 
+o	cat_emb_right_DRIVE.pkl : Catalogo de embeddings con links de imágenes a Google Drive (right)
 
-'''
+o	catalog_triplet_left_final2.pkl : Catalogo de embeddings con rutas de imagenes locales (left)
+
+o	catalog_triplet_right_final2.pkl : Catalogo de embeddings con rutas de imagenes locales (right)
+
+o	drive_image_map_left.json : Archivo .json con rutas de las imágenes en Google Drive (left)
+
+o	drive_image_map_right.json : Archivo .json con rutas de las imágenes en Google Drive (right)
